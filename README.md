@@ -14,7 +14,7 @@ It supports local LLM chat, smart query routing, PDF semantic Q&A (RAG), live We
 ## Hardware Photos & Diagrams
 
 **Hardware image file name (in `frame/` directory):**  
-- `IMG_8136.HEIC`
+<img src="2.png" width="650" alt="System Architecture Diagram"/>
 
 > Note: GitHub may not render `.HEIC` inline. If you want it visible on the README page, export a `.png/.jpg` copy and reference that too.
 
