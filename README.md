@@ -124,6 +124,8 @@ Backend services:
 
 ### 1) Backend Pi (4 GB)
 
+- haven't pushed yet
+
 1. **Install Node.js (LTS) + dependencies**
    ```bash
    sudo apt update
