@@ -4,7 +4,7 @@
 **Instructor:** Omprakash Gnawali  
 **Author:** Amrinder Singh (Cougar ID: 2395427)  
 **Date:** 2025-11-04  
-**Live Demo:** https://amuo007.github.io/my-ai-assistant/
+**Live Demo:** https://amuo007.github.io/LocalLLM_RAG_pipelines/
 
 A distributed, fully self-hosted AI web dashboard that runs on Raspberry Pi hardware.  
 It supports local LLM chat, smart query routing, PDF semantic Q&A (RAG), live Web-RAG with citations, and real-time Pi monitoring—using a dual-Pi edge architecture.
